@@ -4,9 +4,6 @@ class Solution {
         HashSet<String> duplicate =new HashSet<>();
 
         for(String str:arr){
-            if(duplicate.contains(str)){
-                continue;
-            }
             if(distinct.contains(str)){
                 distinct.remove(str);
                 duplicate.add(str);
