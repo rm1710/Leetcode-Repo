@@ -10,8 +10,7 @@ class Solution {
         int count=0;
         int minKeyPress=0;
         //rev
-        for(int i=25;i>=0;i--){ 
-            if(arr[i]==0){break;}
+        for(int i=25;i>=0;i--){
             int val=arr[i]*(count/8+1);
             minKeyPress +=val;
             count++;
