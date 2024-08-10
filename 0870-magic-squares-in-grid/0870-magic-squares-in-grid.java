@@ -1,83 +1,33 @@
 class Solution {
-    public int findRowSum(int[][] grid, int r, int c) {
-        int sum = 0;
-        for (int i = 0; i < 3; i++) {
-            int rowSum = 0;
-            for (int j = 0; j < 3; j++) {
-                int val = grid[r + i][c + j];
-                if (val < 1 || val > 9) return -1;  // Values must be between 1 and 9
-                rowSum += val;
-            }
-            if (i == 0) {
-                sum = rowSum;
-            } else {
-                if (sum != rowSum) {
-                    return -1;
-                }
-            }
-        }
-        return sum;
-    }
-
-    public int findColSum(int[][] grid, int r, int c) {
-        int sum = 0;
-        for (int j = 0; j < 3; j++) {
-            int colSum = 0;
-            for (int i = 0; i < 3; i++) {
-                int val = grid[r + i][c + j];
-                colSum += val;
-            }
-            if (j == 0) {
-                sum = colSum;
-            } else {
-                if (sum != colSum) {
-                    return -1;
-                }
-            }
-        }
-        return sum;
-    }
-
-    public int diagonalSum(int[][] grid, int r, int c) {
-        int sum1 = grid[r][c] + grid[r + 1][c + 1] + grid[r + 2][c + 2];
-        int sum2 = grid[r][c + 2] + grid[r + 1][c + 1] + grid[r + 2][c];
-        if (sum1 == sum2) {
-            return sum1;
-        }
-        return -1;
-    }
-
     public boolean isMagicSquare(int[][] grid, int r, int c) {
-        boolean[] visited = new boolean[10];
-        
+        // Check if the 3x3 grid contains all numbers from 1 to 9 exactly once
+        int[] count = new int[10];
+        int sum = 0;
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
                 int val = grid[r + i][c + j];
-                if (val < 1 || val > 9 || visited[val]) {
-                    return false;  // Values must be distinct and between 1 and 9
-                }
-                visited[val] = true;
+                if (val < 1 || val > 9 || count[val] > 0) return false;
+                count[val]++;
+                sum += val;
             }
         }
 
-        int rowSum = findRowSum(grid, r, c);
-        if (rowSum == -1) return false;
-
-        int colSum = findColSum(grid, r, c);
-        if (colSum == -1) return false;
-
-        int diagonalSum = diagonalSum(grid, r, c);
-        if (diagonalSum == -1) return false;
-
-        return rowSum == colSum && rowSum == diagonalSum;
+        // Check if all rows, columns, and diagonals sum to 15 (since 15 is the magic sum for 3x3 grid)
+        return sum == 45 &&  // Sum of all numbers in the 3x3 grid should be 45 (1+2+...+9)
+            (grid[r][c] + grid[r][c+1] + grid[r][c+2] == 15) &&  // Row 1
+            (grid[r+1][c] + grid[r+1][c+1] + grid[r+1][c+2] == 15) &&  // Row 2
+            (grid[r+2][c] + grid[r+2][c+1] + grid[r+2][c+2] == 15) &&  // Row 3
+            (grid[r][c] + grid[r+1][c] + grid[r+2][c] == 15) &&  // Column 1
+            (grid[r][c+1] + grid[r+1][c+1] + grid[r+2][c+1] == 15) &&  // Column 2
+            (grid[r][c+2] + grid[r+1][c+2] + grid[r+2][c+2] == 15) &&  // Column 3
+            (grid[r][c] + grid[r+1][c+1] + grid[r+2][c+2] == 15) &&  // Diagonal 1
+            (grid[r][c+2] + grid[r+1][c+1] + grid[r+2][c] == 15);  // Diagonal 2
     }
 
     public int numMagicSquaresInside(int[][] grid) {
-        int rows = grid.length;
-        int cols = grid[0].length;
         int count = 0;
-        for (int i = 0; i < rows - 2; i++) {
-            for (int j = 0; j < cols - 2; j++) {
+        for (int i = 0; i <= grid.length - 3; i++) {
+            for (int j = 0; j <= grid[0].length - 3; j++) {
                 if (isMagicSquare(grid, i, j)) {
                     count++;
                 }
