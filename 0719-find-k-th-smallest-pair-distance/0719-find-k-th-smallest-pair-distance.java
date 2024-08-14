@@ -2,7 +2,7 @@ class Solution {
     public int smallestDistancePair(int[] nums, int k) {
         Arrays.sort(nums);
         int left=0;
-        int right=nums[nums.length-1]-nums[0];
+        int right=nums[nums.length-1];
         while(left<right){
             int mid=(left+right)/2;
             if(issmallpairs(nums,k,mid)) right=mid;
