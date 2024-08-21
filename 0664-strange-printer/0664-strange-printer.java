@@ -1,36 +1,25 @@
 class Solution {
     public int strangePrinter(String s) {
-        char[] sc=s.toCharArray();
-        final int n=removeDuplicates(sc);
-        if(n<=1) return n;
-        return dfs(0,n-1,sc,new int[n][n]);
-    }
+        int n = s.length();
+        if (n == 0) return 0;
 
-    private int dfs(int left,int right,char[] sc,int[][] memo){
-        if(left>=right){
-            return (left==right)?1:0;
-        }
-        if(memo[left][right]!=0) return memo[left][right];
-        int letter = sc[left];
-        int answer = 1 + dfs(left+1,right,sc,memo);
-        for(int k=left+1;k<=right;k++){
-            if(sc[k] == letter){
-                answer=Math.min(answer,dfs(left+1,k-1,sc,memo)+dfs(k,right,sc,memo));
+        // dp[i][j] will be the minimum number of turns to print s[i..j]
+        int[][] dp = new int[n][n];
+
+        for (int i = n - 1; i >= 0; i--) {
+            dp[i][i] = 1; // A single character requires 1 turn to print
+            for (int j = i + 1; j < n; j++) {
+                // Initialize dp[i][j] with printing s[j] after s[i..j-1]
+                dp[i][j] = dp[i][j - 1] + 1;
+                // Try to find a better solution by merging prints
+                for (int k = i; k < j; k++) {
+                    if (s.charAt(k) == s.charAt(j)) {
+                        dp[i][j] = Math.min(dp[i][j], dp[i][k] + (k + 1 <= j - 1 ? dp[k + 1][j - 1] : 0));
+                    }
+                }
             }
         }
-        return memo[left][right]=answer;
-    }
 
-    private int removeDuplicates(char[] sc){
-        int idx=0;
-        char prev=0;
-
-        for(char c:sc){
-            if(c!=prev){
-                sc[idx++]=c;
-                prev=c;
-            }
-        }
-        return idx;
+        return dp[0][n - 1];
     }
 }
