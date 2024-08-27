@@ -7,8 +7,10 @@ class Solution {
             for (int j = 0; j < edges.length; j++) {
                 int u = edges[j][0], v = edges[j][1];
                 double sp = succProb[j];
-                if (prob[u] * sp > prob[v]) prob[v] = prob[u] * sp;
-                if (prob[v] * sp > prob[u]) prob[u] = prob[v] * sp;
+                if (prob[u] * sp > prob[v]) 
+                    prob[v] = prob[u] * sp;
+                if (prob[v] * sp > prob[u]) 
+                    prob[u] = prob[v] * sp;
             }
         }
 
