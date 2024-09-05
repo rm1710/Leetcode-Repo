@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/0040-combination-sum-ii) |
 | [0118-pascals-triangle](https://github.com/rm1710/Leetcode-Repo/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/0119-pascals-triangle-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/rm1710/Leetcode-Repo/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rm1710/Leetcode-Repo/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/rm1710/Leetcode-Repo/tree/master/0870-magic-squares-in-grid) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/rm1710/Leetcode-Repo/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/0119-pascals-triangle-ii) |
 | [0264-ugly-number-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/rm1710/Leetcode-Repo/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/rm1710/Leetcode-Repo/tree/master/0664-strange-printer) |
