@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/rm1710/Leetcode-Repo/tree/master/0058-length-of-last-word) |
 | [0273-integer-to-english-words](https://github.com/rm1710/Leetcode-Repo/tree/master/0273-integer-to-english-words) |
 | [0500-keyboard-row](https://github.com/rm1710/Leetcode-Repo/tree/master/0500-keyboard-row) |
 | [0564-find-the-closest-palindrome](https://github.com/rm1710/Leetcode-Repo/tree/master/0564-find-the-closest-palindrome) |
