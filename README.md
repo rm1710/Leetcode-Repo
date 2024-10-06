@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rm1710/Leetcode-Repo/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/rm1710/Leetcode-Repo/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rm1710/Leetcode-Repo/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/rm1710/Leetcode-Repo/tree/master/1923-sentence-similarity-iii) |
 | [2035-count-sub-islands](https://github.com/rm1710/Leetcode-Repo/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/rm1710/Leetcode-Repo/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rm1710/Leetcode-Repo/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/rm1710/Leetcode-Repo/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rm1710/Leetcode-Repo/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rm1710/Leetcode-Repo/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/rm1710/Leetcode-Repo/tree/master/1923-sentence-similarity-iii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rm1710/Leetcode-Repo/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/rm1710/Leetcode-Repo/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rm1710/Leetcode-Repo/tree/master/0283-move-zeroes) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rm1710/Leetcode-Repo/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rm1710/Leetcode-Repo/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1923-sentence-similarity-iii](https://github.com/rm1710/Leetcode-Repo/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rm1710/Leetcode-Repo/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/rm1710/Leetcode-Repo/tree/master/2634-minimum-common-value) |
 ## Binary Search
