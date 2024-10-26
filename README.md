@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/rm1710/Leetcode-Repo/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/rm1710/Leetcode-Repo/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rm1710/Leetcode-Repo/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/0219-contains-duplicate-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rm1710/Leetcode-Repo/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/rm1710/Leetcode-Repo/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/rm1710/Leetcode-Repo/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rm1710/Leetcode-Repo/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/rm1710/Leetcode-Repo/tree/master/0273-integer-to-english-words) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/rm1710/Leetcode-Repo/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/rm1710/Leetcode-Repo/tree/master/0012-integer-to-roman) |
 | [0264-ugly-number-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/rm1710/Leetcode-Repo/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/rm1710/Leetcode-Repo/tree/master/0273-integer-to-english-words) |
