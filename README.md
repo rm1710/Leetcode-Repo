@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/rm1710/Leetcode-Repo/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/rm1710/Leetcode-Repo/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rm1710/Leetcode-Repo/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/rm1710/Leetcode-Repo/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/rm1710/Leetcode-Repo/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rm1710/Leetcode-Repo/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/rm1710/Leetcode-Repo/tree/master/1923-sentence-similarity-iii) |
