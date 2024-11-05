@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rm1710/Leetcode-Repo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0040-combination-sum-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/rm1710/Leetcode-Repo/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/rm1710/Leetcode-Repo/tree/master/0118-pascals-triangle) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rm1710/Leetcode-Repo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/rm1710/Leetcode-Repo/tree/master/0268-missing-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rm1710/Leetcode-Repo/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/rm1710/Leetcode-Repo/tree/master/0792-binary-search) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rm1710/Leetcode-Repo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/rm1710/Leetcode-Repo/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
