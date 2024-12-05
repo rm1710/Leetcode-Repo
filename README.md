@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rm1710/Leetcode-Repo/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/rm1710/Leetcode-Repo/tree/master/0012-integer-to-roman) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rm1710/Leetcode-Repo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/rm1710/Leetcode-Repo/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rm1710/Leetcode-Repo/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/rm1710/Leetcode-Repo/tree/master/0273-integer-to-english-words) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rm1710/Leetcode-Repo/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rm1710/Leetcode-Repo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/rm1710/Leetcode-Repo/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/rm1710/Leetcode-Repo/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/rm1710/Leetcode-Repo/tree/master/0189-rotate-array) |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/rm1710/Leetcode-Repo/tree/master/0595-big-countries) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rm1710/Leetcode-Repo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
