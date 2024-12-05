@@ -8,8 +8,6 @@ class Solution {
         if(match.find()) {
             return match.start();
         }
-        else{
-            return -1;
-        }
+        return -1;
     }
 }
