@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/rm1710/Leetcode-Repo/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1755-defuse-the-bomb](https://github.com/rm1710/Leetcode-Repo/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rm1710/Leetcode-Repo/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/rm1710/Leetcode-Repo/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1923-sentence-similarity-iii](https://github.com/rm1710/Leetcode-Repo/tree/master/1923-sentence-similarity-iii) |
 | [2035-count-sub-islands](https://github.com/rm1710/Leetcode-Repo/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/rm1710/Leetcode-Repo/tree/master/2067-maximum-number-of-points-with-cost) |
