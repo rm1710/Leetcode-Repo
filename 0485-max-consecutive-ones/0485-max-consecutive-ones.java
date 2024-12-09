@@ -6,7 +6,9 @@ class Solution {
         for(int n:nums){
             if(n == 1){
                 c++;
-                maxc=Math.max(maxc,c);
+                if(c>maxc){
+                    maxc=c;
+                }
             }else{
                 c=0;
             }
