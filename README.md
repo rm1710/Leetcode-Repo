@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/rm1710/Leetcode-Repo/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/rm1710/Leetcode-Repo/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/rm1710/Leetcode-Repo/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/rm1710/Leetcode-Repo/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/rm1710/Leetcode-Repo/tree/master/0500-keyboard-row) |
 | [0564-find-the-closest-palindrome](https://github.com/rm1710/Leetcode-Repo/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rm1710/Leetcode-Repo/tree/master/0592-fraction-addition-and-subtraction) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/rm1710/Leetcode-Repo/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/rm1710/Leetcode-Repo/tree/master/0273-integer-to-english-words) |
+| [0415-add-strings](https://github.com/rm1710/Leetcode-Repo/tree/master/0415-add-strings) |
 | [0564-find-the-closest-palindrome](https://github.com/rm1710/Leetcode-Repo/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rm1710/Leetcode-Repo/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/rm1710/Leetcode-Repo/tree/master/0650-2-keys-keyboard) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/rm1710/Leetcode-Repo/tree/master/0415-add-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rm1710/Leetcode-Repo/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/rm1710/Leetcode-Repo/tree/master/0921-spiral-matrix-iii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rm1710/Leetcode-Repo/tree/master/2132-convert-1d-array-into-2d-array) |
