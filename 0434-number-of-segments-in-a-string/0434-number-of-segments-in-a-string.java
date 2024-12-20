@@ -1,5 +1,13 @@
+import java.util.regex.*;
+
 class Solution {
     public int countSegments(String s) {
-        return s.trim().isEmpty() ? 0 : s.trim().split("\\s+").length;
+        Pattern p = Pattern.compile("\\S+");
+        Matcher m = p.matcher(s);
+        int count = 0;
+        while (m.find()) {
+            count++;
+        }
+        return count;
     }
 }
