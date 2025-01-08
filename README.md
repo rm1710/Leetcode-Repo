@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rm1710/Leetcode-Repo/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/rm1710/Leetcode-Repo/tree/master/2634-minimum-common-value) |
 | [2727-number-of-senior-citizens](https://github.com/rm1710/Leetcode-Repo/tree/master/2727-number-of-senior-citizens) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/rm1710/Leetcode-Repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rm1710/Leetcode-Repo/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/rm1710/Leetcode-Repo/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/rm1710/Leetcode-Repo/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/rm1710/Leetcode-Repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Counting
 |  |
 | ------- |
@@ -331,8 +333,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rm1710/Leetcode-Repo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/rm1710/Leetcode-Repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rm1710/Leetcode-Repo/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/rm1710/Leetcode-Repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/rm1710/Leetcode-Repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/rm1710/Leetcode-Repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
