@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/rm1710/Leetcode-Repo/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rm1710/Leetcode-Repo/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/rm1710/Leetcode-Repo/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/rm1710/Leetcode-Repo/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rm1710/Leetcode-Repo/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rm1710/Leetcode-Repo/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/rm1710/Leetcode-Repo/tree/master/2634-minimum-common-value) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/rm1710/Leetcode-Repo/tree/master/1923-sentence-similarity-iii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rm1710/Leetcode-Repo/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/rm1710/Leetcode-Repo/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/rm1710/Leetcode-Repo/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2580-circular-sentence](https://github.com/rm1710/Leetcode-Repo/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/rm1710/Leetcode-Repo/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rm1710/Leetcode-Repo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/rm1710/Leetcode-Repo/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rm1710/Leetcode-Repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Monotonic Stack
 |  |
