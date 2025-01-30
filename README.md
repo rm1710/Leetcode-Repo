@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/rm1710/Leetcode-Repo/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/rm1710/Leetcode-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rm1710/Leetcode-Repo/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/rm1710/Leetcode-Repo/tree/master/0500-keyboard-row) |
 | [0870-magic-squares-in-grid](https://github.com/rm1710/Leetcode-Repo/tree/master/0870-magic-squares-in-grid) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rm1710/Leetcode-Repo/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/rm1710/Leetcode-Repo/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/rm1710/Leetcode-Repo/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/rm1710/Leetcode-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rm1710/Leetcode-Repo/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/rm1710/Leetcode-Repo/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/rm1710/Leetcode-Repo/tree/master/0434-number-of-segments-in-a-string) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rm1710/Leetcode-Repo/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/rm1710/Leetcode-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rm1710/Leetcode-Repo/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rm1710/Leetcode-Repo/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rm1710/Leetcode-Repo/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -356,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rm1710/Leetcode-Repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rm1710/Leetcode-Repo/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
