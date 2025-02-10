@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/rm1710/Leetcode-Repo/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rm1710/Leetcode-Repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/rm1710/Leetcode-Repo/tree/master/3447-clear-digits) |
 ## Counting
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/rm1710/Leetcode-Repo/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/rm1710/Leetcode-Repo/tree/master/2232-adding-spaces-to-a-string) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rm1710/Leetcode-Repo/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/rm1710/Leetcode-Repo/tree/master/3447-clear-digits) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/rm1710/Leetcode-Repo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/rm1710/Leetcode-Repo/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rm1710/Leetcode-Repo/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3447-clear-digits](https://github.com/rm1710/Leetcode-Repo/tree/master/3447-clear-digits) |
 ## Graph
 |  |
 | ------- |
