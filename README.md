@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/rm1710/Leetcode-Repo/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rm1710/Leetcode-Repo/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2448-count-number-of-bad-pairs](https://github.com/rm1710/Leetcode-Repo/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rm1710/Leetcode-Repo/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rm1710/Leetcode-Repo/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rm1710/Leetcode-Repo/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/rm1710/Leetcode-Repo/tree/master/2634-minimum-common-value) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/rm1710/Leetcode-Repo/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/rm1710/Leetcode-Repo/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/rm1710/Leetcode-Repo/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rm1710/Leetcode-Repo/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rm1710/Leetcode-Repo/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/rm1710/Leetcode-Repo/tree/master/2634-minimum-common-value) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/rm1710/Leetcode-Repo/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rm1710/Leetcode-Repo/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rm1710/Leetcode-Repo/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rm1710/Leetcode-Repo/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rm1710/Leetcode-Repo/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/rm1710/Leetcode-Repo/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/rm1710/Leetcode-Repo/tree/master/1325-path-with-maximum-probability) |
 | [2434-design-a-number-container-system](https://github.com/rm1710/Leetcode-Repo/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rm1710/Leetcode-Repo/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2803-modify-graph-edge-weights](https://github.com/rm1710/Leetcode-Repo/tree/master/2803-modify-graph-edge-weights) |
 ## Binary Tree
 |  |
