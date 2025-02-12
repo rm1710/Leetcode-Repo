@@ -2,7 +2,7 @@ import java.util.HashMap;
 
 class Solution {
     public int maximumSum(int[] nums) {
-        HashMap<Integer, Integer> map = new HashMap<>();  // digit sum → max num
+        HashMap<Integer, Integer> map = new HashMap<>();  
         int maxSum = -1;
 
         for (int num : nums) {
