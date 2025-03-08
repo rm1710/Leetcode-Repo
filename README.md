@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rm1710/Leetcode-Repo/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rm1710/Leetcode-Repo/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/rm1710/Leetcode-Repo/tree/master/0500-keyboard-row) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rm1710/Leetcode-Repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/rm1710/Leetcode-Repo/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rm1710/Leetcode-Repo/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/rm1710/Leetcode-Repo/tree/master/0792-binary-search) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rm1710/Leetcode-Repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/rm1710/Leetcode-Repo/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rm1710/Leetcode-Repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rm1710/Leetcode-Repo/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/rm1710/Leetcode-Repo/tree/master/0792-binary-search) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rm1710/Leetcode-Repo/tree/master/1615-range-sum-of-sorted-subarray-sums) |
