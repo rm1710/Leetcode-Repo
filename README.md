@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rm1710/Leetcode-Repo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0040-combination-sum-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/0040-combination-sum-ii) |
+| [0073-set-matrix-zeroes](https://github.com/rm1710/Leetcode-Repo/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rm1710/Leetcode-Repo/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/rm1710/Leetcode-Repo/tree/master/0118-pascals-triangle) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/rm1710/Leetcode-Repo/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/rm1710/Leetcode-Repo/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/rm1710/Leetcode-Repo/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rm1710/Leetcode-Repo/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/0219-contains-duplicate-ii) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/rm1710/Leetcode-Repo/tree/master/0073-set-matrix-zeroes) |
 | [0870-magic-squares-in-grid](https://github.com/rm1710/Leetcode-Repo/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/rm1710/Leetcode-Repo/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/rm1710/Leetcode-Repo/tree/master/0999-regions-cut-by-slashes) |
