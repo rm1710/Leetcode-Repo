@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rm1710/Leetcode-Repo/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/rm1710/Leetcode-Repo/tree/master/2634-minimum-common-value) |
 | [2727-number-of-senior-citizens](https://github.com/rm1710/Leetcode-Repo/tree/master/2727-number-of-senior-citizens) |
+| [2881-split-strings-by-separator](https://github.com/rm1710/Leetcode-Repo/tree/master/2881-split-strings-by-separator) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rm1710/Leetcode-Repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rm1710/Leetcode-Repo/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/rm1710/Leetcode-Repo/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2580-circular-sentence](https://github.com/rm1710/Leetcode-Repo/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/rm1710/Leetcode-Repo/tree/master/2727-number-of-senior-citizens) |
+| [2881-split-strings-by-separator](https://github.com/rm1710/Leetcode-Repo/tree/master/2881-split-strings-by-separator) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rm1710/Leetcode-Repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/rm1710/Leetcode-Repo/tree/master/3447-clear-digits) |
