@@ -444,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/rm1710/Leetcode-Repo/tree/master/2434-design-a-number-container-system) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/rm1710/Leetcode-Repo/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
