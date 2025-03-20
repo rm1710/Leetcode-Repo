@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rm1710/Leetcode-Repo/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/rm1710/Leetcode-Repo/tree/master/1923-sentence-similarity-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rm1710/Leetcode-Repo/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2032-largest-odd-number-in-string](https://github.com/rm1710/Leetcode-Repo/tree/master/2032-largest-odd-number-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rm1710/Leetcode-Repo/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/rm1710/Leetcode-Repo/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/rm1710/Leetcode-Repo/tree/master/2243-check-if-all-as-appears-before-all-bs) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/rm1710/Leetcode-Repo/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/rm1710/Leetcode-Repo/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/rm1710/Leetcode-Repo/tree/master/0890-lemonade-change) |
+| [2032-largest-odd-number-in-string](https://github.com/rm1710/Leetcode-Repo/tree/master/2032-largest-odd-number-in-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rm1710/Leetcode-Repo/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rm1710/Leetcode-Repo/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2032-largest-odd-number-in-string](https://github.com/rm1710/Leetcode-Repo/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/rm1710/Leetcode-Repo/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/rm1710/Leetcode-Repo/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Recursion
