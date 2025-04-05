@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rm1710/Leetcode-Repo/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/rm1710/Leetcode-Repo/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rm1710/Leetcode-Repo/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/rm1710/Leetcode-Repo/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/rm1710/Leetcode-Repo/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/rm1710/Leetcode-Repo/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rm1710/Leetcode-Repo/tree/master/0540-single-element-in-a-sorted-array) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/rm1710/Leetcode-Repo/tree/master/0334-increasing-triplet-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/rm1710/Leetcode-Repo/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/rm1710/Leetcode-Repo/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/rm1710/Leetcode-Repo/tree/master/0890-lemonade-change) |
