@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/rm1710/Leetcode-Repo/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/rm1710/Leetcode-Repo/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/rm1710/Leetcode-Repo/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2998-count-symmetric-integers](https://github.com/rm1710/Leetcode-Repo/tree/master/2998-count-symmetric-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -478,4 +479,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/rm1710/Leetcode-Repo/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/rm1710/Leetcode-Repo/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/rm1710/Leetcode-Repo/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/rm1710/Leetcode-Repo/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
