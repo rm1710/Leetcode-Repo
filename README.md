@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rm1710/Leetcode-Repo/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/rm1710/Leetcode-Repo/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rm1710/Leetcode-Repo/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/rm1710/Leetcode-Repo/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rm1710/Leetcode-Repo/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rm1710/Leetcode-Repo/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rm1710/Leetcode-Repo/tree/master/2308-divide-array-into-equal-pairs) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rm1710/Leetcode-Repo/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/rm1710/Leetcode-Repo/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rm1710/Leetcode-Repo/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/rm1710/Leetcode-Repo/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/rm1710/Leetcode-Repo/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rm1710/Leetcode-Repo/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/rm1710/Leetcode-Repo/tree/master/1923-sentence-similarity-iii) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/rm1710/Leetcode-Repo/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1364-tuple-with-same-product](https://github.com/rm1710/Leetcode-Repo/tree/master/1364-tuple-with-same-product) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rm1710/Leetcode-Repo/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/rm1710/Leetcode-Repo/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rm1710/Leetcode-Repo/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rm1710/Leetcode-Repo/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rm1710/Leetcode-Repo/tree/master/2308-divide-array-into-equal-pairs) |
