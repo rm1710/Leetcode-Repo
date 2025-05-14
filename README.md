@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rm1710/Leetcode-Repo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/rm1710/Leetcode-Repo/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/rm1710/Leetcode-Repo/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/rm1710/Leetcode-Repo/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/rm1710/Leetcode-Repo/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/0219-contains-duplicate-ii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/rm1710/Leetcode-Repo/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/rm1710/Leetcode-Repo/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/rm1710/Leetcode-Repo/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/rm1710/Leetcode-Repo/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/rm1710/Leetcode-Repo/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/rm1710/Leetcode-Repo/tree/master/0273-integer-to-english-words) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/rm1710/Leetcode-Repo/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/rm1710/Leetcode-Repo/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/rm1710/Leetcode-Repo/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/rm1710/Leetcode-Repo/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/rm1710/Leetcode-Repo/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/rm1710/Leetcode-Repo/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rm1710/Leetcode-Repo/tree/master/0344-reverse-string) |
