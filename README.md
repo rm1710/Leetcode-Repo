@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/rm1710/Leetcode-Repo/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rm1710/Leetcode-Repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3321-type-of-triangle](https://github.com/rm1710/Leetcode-Repo/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rm1710/Leetcode-Repo/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rm1710/Leetcode-Repo/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rm1710/Leetcode-Repo/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rm1710/Leetcode-Repo/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3321-type-of-triangle](https://github.com/rm1710/Leetcode-Repo/tree/master/3321-type-of-triangle) |
 ## String
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/rm1710/Leetcode-Repo/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/rm1710/Leetcode-Repo/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/rm1710/Leetcode-Repo/tree/master/2998-count-symmetric-integers) |
+| [3321-type-of-triangle](https://github.com/rm1710/Leetcode-Repo/tree/master/3321-type-of-triangle) |
 ## Recursion
 |  |
 | ------- |
