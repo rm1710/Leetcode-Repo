@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/rm1710/Leetcode-Repo/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rm1710/Leetcode-Repo/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rm1710/Leetcode-Repo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/rm1710/Leetcode-Repo/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/rm1710/Leetcode-Repo/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/rm1710/Leetcode-Repo/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rm1710/Leetcode-Repo/tree/master/0141-linked-list-cycle) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rm1710/Leetcode-Repo/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/rm1710/Leetcode-Repo/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/rm1710/Leetcode-Repo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/rm1710/Leetcode-Repo/tree/master/0148-sort-list) |
