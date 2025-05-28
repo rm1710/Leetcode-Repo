@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rm1710/Leetcode-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/0264-ugly-number-ii) |
+| [0338-counting-bits](https://github.com/rm1710/Leetcode-Repo/tree/master/0338-counting-bits) |
 | [0650-2-keys-keyboard](https://github.com/rm1710/Leetcode-Repo/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/rm1710/Leetcode-Repo/tree/master/0664-strange-printer) |
 | [1013-fibonacci-number](https://github.com/rm1710/Leetcode-Repo/tree/master/1013-fibonacci-number) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rm1710/Leetcode-Repo/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/rm1710/Leetcode-Repo/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rm1710/Leetcode-Repo/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/rm1710/Leetcode-Repo/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/rm1710/Leetcode-Repo/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/rm1710/Leetcode-Repo/tree/master/0476-number-complement) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/rm1710/Leetcode-Repo/tree/master/1071-binary-prefix-divisible-by-5) |
