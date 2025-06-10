@@ -8,20 +8,20 @@ class Solution {
             h.put(c, h.getOrDefault(c, 0) + 1);
         }
 
-        Integer max = null;
+        int max = 0;
 
         for (int o : h.values()) {
-            if (o % 2 == 0) continue;  // Only odd
+            if (o % 2 == 0) continue;  
             for (int e : h.values()) {
-                if (e % 2 != 0) continue; // Only even
+                if (e % 2 != 0) continue; 
 
-                int diff = o - e;
-                if (max == null || diff > max) {
-                    max = diff;
+                int d = o - e;
+                if (d>max  || max==0) {
+                    max = d;
                 }
             }
         }
 
-        return max == null ? -1 : max;
+        return max == 0 ? -1 : max;
     }
 }
