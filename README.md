@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rm1710/Leetcode-Repo/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/rm1710/Leetcode-Repo/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rm1710/Leetcode-Repo/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/rm1710/Leetcode-Repo/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/rm1710/Leetcode-Repo/tree/master/0575-distribute-candies) |
 | [0624-maximum-distance-in-arrays](https://github.com/rm1710/Leetcode-Repo/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rm1710/Leetcode-Repo/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rm1710/Leetcode-Repo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rm1710/Leetcode-Repo/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/rm1710/Leetcode-Repo/tree/master/0389-find-the-difference) |
+| [0561-array-partition](https://github.com/rm1710/Leetcode-Repo/tree/master/0561-array-partition) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rm1710/Leetcode-Repo/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1256-rank-transform-of-an-array](https://github.com/rm1710/Leetcode-Repo/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rm1710/Leetcode-Repo/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/rm1710/Leetcode-Repo/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/rm1710/Leetcode-Repo/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/rm1710/Leetcode-Repo/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/rm1710/Leetcode-Repo/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/rm1710/Leetcode-Repo/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/rm1710/Leetcode-Repo/tree/master/0890-lemonade-change) |
@@ -574,4 +577,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/rm1710/Leetcode-Repo/tree/master/0148-sort-list) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/rm1710/Leetcode-Repo/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
