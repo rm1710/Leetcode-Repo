@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/rm1710/Leetcode-Repo/tree/master/0890-lemonade-change) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/rm1710/Leetcode-Repo/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/rm1710/Leetcode-Repo/tree/master/2032-largest-odd-number-in-string) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/rm1710/Leetcode-Repo/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/rm1710/Leetcode-Repo/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Math
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rm1710/Leetcode-Repo/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/rm1710/Leetcode-Repo/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/rm1710/Leetcode-Repo/tree/master/2448-count-number-of-bad-pairs) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/rm1710/Leetcode-Repo/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/rm1710/Leetcode-Repo/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/rm1710/Leetcode-Repo/tree/master/2998-count-symmetric-integers) |
 | [3321-type-of-triangle](https://github.com/rm1710/Leetcode-Repo/tree/master/3321-type-of-triangle) |
