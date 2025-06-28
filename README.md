@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rm1710/Leetcode-Repo/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1619-path-crossing](https://github.com/rm1710/Leetcode-Repo/tree/master/1619-path-crossing) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/rm1710/Leetcode-Repo/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1764-maximum-repeating-substring](https://github.com/rm1710/Leetcode-Repo/tree/master/1764-maximum-repeating-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rm1710/Leetcode-Repo/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/rm1710/Leetcode-Repo/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/rm1710/Leetcode-Repo/tree/master/1894-merge-strings-alternately) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/rm1710/Leetcode-Repo/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/1240-stone-game-ii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rm1710/Leetcode-Repo/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1764-maximum-repeating-substring](https://github.com/rm1710/Leetcode-Repo/tree/master/1764-maximum-repeating-substring) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/rm1710/Leetcode-Repo/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Prefix Sum
 |  |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rm1710/Leetcode-Repo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/rm1710/Leetcode-Repo/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rm1710/Leetcode-Repo/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1764-maximum-repeating-substring](https://github.com/rm1710/Leetcode-Repo/tree/master/1764-maximum-repeating-substring) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rm1710/Leetcode-Repo/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rm1710/Leetcode-Repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Monotonic Stack
