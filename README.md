@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/rm1710/Leetcode-Repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/rm1710/Leetcode-Repo/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/rm1710/Leetcode-Repo/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/rm1710/Leetcode-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/rm1710/Leetcode-Repo/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rm1710/Leetcode-Repo/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/rm1710/Leetcode-Repo/tree/master/0792-binary-search) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rm1710/Leetcode-Repo/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/rm1710/Leetcode-Repo/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/rm1710/Leetcode-Repo/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/rm1710/Leetcode-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0817-design-hashmap](https://github.com/rm1710/Leetcode-Repo/tree/master/0817-design-hashmap) |
 | [0870-magic-squares-in-grid](https://github.com/rm1710/Leetcode-Repo/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rm1710/Leetcode-Repo/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/rm1710/Leetcode-Repo/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/rm1710/Leetcode-Repo/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/rm1710/Leetcode-Repo/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/rm1710/Leetcode-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rm1710/Leetcode-Repo/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1137-height-checker](https://github.com/rm1710/Leetcode-Repo/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/rm1710/Leetcode-Repo/tree/master/1256-rank-transform-of-an-array) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rm1710/Leetcode-Repo/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/rm1710/Leetcode-Repo/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/rm1710/Leetcode-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rm1710/Leetcode-Repo/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rm1710/Leetcode-Repo/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/rm1710/Leetcode-Repo/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -536,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/rm1710/Leetcode-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [1755-defuse-the-bomb](https://github.com/rm1710/Leetcode-Repo/tree/master/1755-defuse-the-bomb) |
 ## Memoization
 |  |
