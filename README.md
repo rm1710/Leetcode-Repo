@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/rm1710/Leetcode-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/rm1710/Leetcode-Repo/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rm1710/Leetcode-Repo/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0724-find-pivot-index](https://github.com/rm1710/Leetcode-Repo/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/rm1710/Leetcode-Repo/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/rm1710/Leetcode-Repo/tree/master/0817-design-hashmap) |
 | [0870-magic-squares-in-grid](https://github.com/rm1710/Leetcode-Repo/tree/master/0870-magic-squares-in-grid) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rm1710/Leetcode-Repo/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/rm1710/Leetcode-Repo/tree/master/0724-find-pivot-index) |
 | [1240-stone-game-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/rm1710/Leetcode-Repo/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rm1710/Leetcode-Repo/tree/master/1477-product-of-the-last-k-numbers) |
