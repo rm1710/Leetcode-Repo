@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/rm1710/Leetcode-Repo/tree/master/0921-spiral-matrix-iii) |
 | [0932-monotonic-array](https://github.com/rm1710/Leetcode-Repo/tree/master/0932-monotonic-array) |
 | [0999-regions-cut-by-slashes](https://github.com/rm1710/Leetcode-Repo/tree/master/0999-regions-cut-by-slashes) |
+| [1031-add-to-array-form-of-integer](https://github.com/rm1710/Leetcode-Repo/tree/master/1031-add-to-array-form-of-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/rm1710/Leetcode-Repo/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1137-height-checker](https://github.com/rm1710/Leetcode-Repo/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rm1710/Leetcode-Repo/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/rm1710/Leetcode-Repo/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/rm1710/Leetcode-Repo/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/rm1710/Leetcode-Repo/tree/master/1013-fibonacci-number) |
+| [1031-add-to-array-form-of-integer](https://github.com/rm1710/Leetcode-Repo/tree/master/1031-add-to-array-form-of-integer) |
 | [1240-stone-game-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rm1710/Leetcode-Repo/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rm1710/Leetcode-Repo/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
