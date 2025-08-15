@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/rm1710/Leetcode-Repo/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/rm1710/Leetcode-Repo/tree/master/0273-integer-to-english-words) |
+| [0342-power-of-four](https://github.com/rm1710/Leetcode-Repo/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/rm1710/Leetcode-Repo/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/rm1710/Leetcode-Repo/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/rm1710/Leetcode-Repo/tree/master/0507-perfect-number) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rm1710/Leetcode-Repo/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/rm1710/Leetcode-Repo/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/rm1710/Leetcode-Repo/tree/master/0273-integer-to-english-words) |
+| [0342-power-of-four](https://github.com/rm1710/Leetcode-Repo/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/rm1710/Leetcode-Repo/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rm1710/Leetcode-Repo/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rm1710/Leetcode-Repo/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rm1710/Leetcode-Repo/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/rm1710/Leetcode-Repo/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/rm1710/Leetcode-Repo/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/rm1710/Leetcode-Repo/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/rm1710/Leetcode-Repo/tree/master/0476-number-complement) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/rm1710/Leetcode-Repo/tree/master/1071-binary-prefix-divisible-by-5) |
