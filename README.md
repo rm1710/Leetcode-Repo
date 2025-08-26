@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2881-split-strings-by-separator](https://github.com/rm1710/Leetcode-Repo/tree/master/2881-split-strings-by-separator) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/rm1710/Leetcode-Repo/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rm1710/Leetcode-Repo/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rm1710/Leetcode-Repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/rm1710/Leetcode-Repo/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
