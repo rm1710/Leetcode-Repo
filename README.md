@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/rm1710/Leetcode-Repo/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rm1710/Leetcode-Repo/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/rm1710/Leetcode-Repo/tree/master/2232-adding-spaces-to-a-string) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/rm1710/Leetcode-Repo/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/rm1710/Leetcode-Repo/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rm1710/Leetcode-Repo/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rm1710/Leetcode-Repo/tree/master/2308-divide-array-into-equal-pairs) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/rm1710/Leetcode-Repo/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rm1710/Leetcode-Repo/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rm1710/Leetcode-Repo/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/rm1710/Leetcode-Repo/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rm1710/Leetcode-Repo/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/rm1710/Leetcode-Repo/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/rm1710/Leetcode-Repo/tree/master/2448-count-number-of-bad-pairs) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/rm1710/Leetcode-Repo/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/rm1710/Leetcode-Repo/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rm1710/Leetcode-Repo/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/rm1710/Leetcode-Repo/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Simulation
 |  |
 | ------- |
