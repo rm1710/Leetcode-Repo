@@ -6,12 +6,11 @@ class Solution {
         }
 
         int maxVowel = 0, maxConsonant = 0;
-        String vowels = "aeiou";
-
+        
         for (int i = 0; i < 26; i++) {
             if (freq[i] > 0) {
                 char c = (char) (i + 'a');
-                if (vowels.indexOf(c) != -1)
+                if ("aeiou".indexOf(c) != -1)
                     maxVowel = Math.max(maxVowel, freq[i]);
                 else
                     maxConsonant = Math.max(maxConsonant, freq[i]);
