@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/rm1710/Leetcode-Repo/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rm1710/Leetcode-Repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/rm1710/Leetcode-Repo/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/rm1710/Leetcode-Repo/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/rm1710/Leetcode-Repo/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/rm1710/Leetcode-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/rm1710/Leetcode-Repo/tree/master/0624-maximum-distance-in-arrays) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/rm1710/Leetcode-Repo/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rm1710/Leetcode-Repo/tree/master/0073-set-matrix-zeroes) |
+| [0566-reshape-the-matrix](https://github.com/rm1710/Leetcode-Repo/tree/master/0566-reshape-the-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/rm1710/Leetcode-Repo/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/rm1710/Leetcode-Repo/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/rm1710/Leetcode-Repo/tree/master/0999-regions-cut-by-slashes) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/rm1710/Leetcode-Repo/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/rm1710/Leetcode-Repo/tree/master/0415-add-strings) |
+| [0566-reshape-the-matrix](https://github.com/rm1710/Leetcode-Repo/tree/master/0566-reshape-the-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rm1710/Leetcode-Repo/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/rm1710/Leetcode-Repo/tree/master/0921-spiral-matrix-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rm1710/Leetcode-Repo/tree/master/2021-remove-all-occurrences-of-a-substring) |
