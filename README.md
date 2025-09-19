@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/rm1710/Leetcode-Repo/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/rm1710/Leetcode-Repo/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/rm1710/Leetcode-Repo/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/rm1710/Leetcode-Repo/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/rm1710/Leetcode-Repo/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rm1710/Leetcode-Repo/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/rm1710/Leetcode-Repo/tree/master/0231-power-of-two) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rm1710/Leetcode-Repo/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/rm1710/Leetcode-Repo/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rm1710/Leetcode-Repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rm1710/Leetcode-Repo/tree/master/0162-find-peak-element) |
