@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/rm1710/Leetcode-Repo/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/rm1710/Leetcode-Repo/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/rm1710/Leetcode-Repo/tree/master/0817-design-hashmap) |
+| [0830-largest-triangle-area](https://github.com/rm1710/Leetcode-Repo/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/rm1710/Leetcode-Repo/tree/master/0837-most-common-word) |
 | [0870-magic-squares-in-grid](https://github.com/rm1710/Leetcode-Repo/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/rm1710/Leetcode-Repo/tree/master/0890-lemonade-change) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/rm1710/Leetcode-Repo/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/rm1710/Leetcode-Repo/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/rm1710/Leetcode-Repo/tree/master/0670-maximum-swap) |
+| [0830-largest-triangle-area](https://github.com/rm1710/Leetcode-Repo/tree/master/0830-largest-triangle-area) |
 | [0870-magic-squares-in-grid](https://github.com/rm1710/Leetcode-Repo/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/rm1710/Leetcode-Repo/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/rm1710/Leetcode-Repo/tree/master/1031-add-to-array-form-of-integer) |
@@ -671,4 +673,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/rm1710/Leetcode-Repo/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/rm1710/Leetcode-Repo/tree/master/1137-height-checker) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/rm1710/Leetcode-Repo/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
