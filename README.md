@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/rm1710/Leetcode-Repo/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/rm1710/Leetcode-Repo/tree/master/0921-spiral-matrix-iii) |
 | [0932-monotonic-array](https://github.com/rm1710/Leetcode-Repo/tree/master/0932-monotonic-array) |
+| [0983-validate-stack-sequences](https://github.com/rm1710/Leetcode-Repo/tree/master/0983-validate-stack-sequences) |
 | [0999-regions-cut-by-slashes](https://github.com/rm1710/Leetcode-Repo/tree/master/0999-regions-cut-by-slashes) |
 | [1031-add-to-array-form-of-integer](https://github.com/rm1710/Leetcode-Repo/tree/master/1031-add-to-array-form-of-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/rm1710/Leetcode-Repo/tree/master/1071-binary-prefix-divisible-by-5) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/rm1710/Leetcode-Repo/tree/master/0566-reshape-the-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rm1710/Leetcode-Repo/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/rm1710/Leetcode-Repo/tree/master/0921-spiral-matrix-iii) |
+| [0983-validate-stack-sequences](https://github.com/rm1710/Leetcode-Repo/tree/master/0983-validate-stack-sequences) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rm1710/Leetcode-Repo/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rm1710/Leetcode-Repo/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/rm1710/Leetcode-Repo/tree/master/2232-adding-spaces-to-a-string) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/rm1710/Leetcode-Repo/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/rm1710/Leetcode-Repo/tree/master/0496-next-greater-element-i) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/rm1710/Leetcode-Repo/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0983-validate-stack-sequences](https://github.com/rm1710/Leetcode-Repo/tree/master/0983-validate-stack-sequences) |
 | [1078-remove-outermost-parentheses](https://github.com/rm1710/Leetcode-Repo/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rm1710/Leetcode-Repo/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/rm1710/Leetcode-Repo/tree/master/1666-make-the-string-great) |
