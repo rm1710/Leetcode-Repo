@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rm1710/Leetcode-Repo/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/rm1710/Leetcode-Repo/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rm1710/Leetcode-Repo/tree/master/1477-product-of-the-last-k-numbers) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/rm1710/Leetcode-Repo/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rm1710/Leetcode-Repo/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/rm1710/Leetcode-Repo/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rm1710/Leetcode-Repo/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/rm1710/Leetcode-Repo/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/rm1710/Leetcode-Repo/tree/master/0817-design-hashmap) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rm1710/Leetcode-Repo/tree/master/1477-product-of-the-last-k-numbers) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/rm1710/Leetcode-Repo/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/rm1710/Leetcode-Repo/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
 |  |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/rm1710/Leetcode-Repo/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0983-validate-stack-sequences](https://github.com/rm1710/Leetcode-Repo/tree/master/0983-validate-stack-sequences) |
 | [1078-remove-outermost-parentheses](https://github.com/rm1710/Leetcode-Repo/tree/master/1078-remove-outermost-parentheses) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/rm1710/Leetcode-Repo/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rm1710/Leetcode-Repo/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/rm1710/Leetcode-Repo/tree/master/1666-make-the-string-great) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rm1710/Leetcode-Repo/tree/master/2021-remove-all-occurrences-of-a-substring) |
