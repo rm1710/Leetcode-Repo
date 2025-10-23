@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rm1710/Leetcode-Repo/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rm1710/Leetcode-Repo/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3582-find-indices-of-stable-mountains](https://github.com/rm1710/Leetcode-Repo/tree/master/3582-find-indices-of-stable-mountains) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/rm1710/Leetcode-Repo/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
