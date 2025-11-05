@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rm1710/Leetcode-Repo/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rm1710/Leetcode-Repo/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rm1710/Leetcode-Repo/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rm1710/Leetcode-Repo/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/rm1710/Leetcode-Repo/tree/master/3582-find-indices-of-stable-mountains) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/rm1710/Leetcode-Repo/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rm1710/Leetcode-Repo/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rm1710/Leetcode-Repo/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/rm1710/Leetcode-Repo/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rm1710/Leetcode-Repo/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rm1710/Leetcode-Repo/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rm1710/Leetcode-Repo/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rm1710/Leetcode-Repo/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/rm1710/Leetcode-Repo/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rm1710/Leetcode-Repo/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/rm1710/Leetcode-Repo/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rm1710/Leetcode-Repo/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Enumeration
 |  |
 | ------- |
