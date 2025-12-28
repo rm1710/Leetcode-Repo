@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/rm1710/Leetcode-Repo/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/rm1710/Leetcode-Repo/tree/master/0921-spiral-matrix-iii) |
 | [0932-monotonic-array](https://github.com/rm1710/Leetcode-Repo/tree/master/0932-monotonic-array) |
+| [0944-delete-columns-to-make-sorted](https://github.com/rm1710/Leetcode-Repo/tree/master/0944-delete-columns-to-make-sorted) |
 | [0983-validate-stack-sequences](https://github.com/rm1710/Leetcode-Repo/tree/master/0983-validate-stack-sequences) |
 | [0999-regions-cut-by-slashes](https://github.com/rm1710/Leetcode-Repo/tree/master/0999-regions-cut-by-slashes) |
 | [1031-add-to-array-form-of-integer](https://github.com/rm1710/Leetcode-Repo/tree/master/1031-add-to-array-form-of-integer) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/rm1710/Leetcode-Repo/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/rm1710/Leetcode-Repo/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rm1710/Leetcode-Repo/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0944-delete-columns-to-make-sorted](https://github.com/rm1710/Leetcode-Repo/tree/master/0944-delete-columns-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/rm1710/Leetcode-Repo/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/rm1710/Leetcode-Repo/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/rm1710/Leetcode-Repo/tree/master/1341-split-a-string-in-balanced-strings) |
