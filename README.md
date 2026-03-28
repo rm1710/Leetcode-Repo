@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rm1710/Leetcode-Repo/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rm1710/Leetcode-Repo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/rm1710/Leetcode-Repo/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/rm1710/Leetcode-Repo/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/rm1710/Leetcode-Repo/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rm1710/Leetcode-Repo/tree/master/0053-maximum-subarray) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rm1710/Leetcode-Repo/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/rm1710/Leetcode-Repo/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/rm1710/Leetcode-Repo/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/rm1710/Leetcode-Repo/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rm1710/Leetcode-Repo/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/rm1710/Leetcode-Repo/tree/master/0139-word-break) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/rm1710/Leetcode-Repo/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/rm1710/Leetcode-Repo/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rm1710/Leetcode-Repo/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rm1710/Leetcode-Repo/tree/master/0074-search-a-2d-matrix) |
