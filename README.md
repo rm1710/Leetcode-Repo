@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rm1710/Leetcode-Repo/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/rm1710/Leetcode-Repo/tree/master/3582-find-indices-of-stable-mountains) |
 | [3731-find-missing-elements](https://github.com/rm1710/Leetcode-Repo/tree/master/3731-find-missing-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rm1710/Leetcode-Repo/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/rm1710/Leetcode-Repo/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rm1710/Leetcode-Repo/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rm1710/Leetcode-Repo/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/rm1710/Leetcode-Repo/tree/master/3731-find-missing-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rm1710/Leetcode-Repo/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rm1710/Leetcode-Repo/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rm1710/Leetcode-Repo/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
