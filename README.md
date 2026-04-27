@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/rm1710/Leetcode-Repo/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rm1710/Leetcode-Repo/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/rm1710/Leetcode-Repo/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/rm1710/Leetcode-Repo/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rm1710/Leetcode-Repo/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rm1710/Leetcode-Repo/tree/master/0075-sort-colors) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/rm1710/Leetcode-Repo/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/rm1710/Leetcode-Repo/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/rm1710/Leetcode-Repo/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/rm1710/Leetcode-Repo/tree/master/0455-assign-cookies) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rm1710/Leetcode-Repo/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/rm1710/Leetcode-Repo/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/rm1710/Leetcode-Repo/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/rm1710/Leetcode-Repo/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rm1710/Leetcode-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
