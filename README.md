@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/rm1710/Leetcode-Repo/tree/master/0921-spiral-matrix-iii) |
 | [0932-monotonic-array](https://github.com/rm1710/Leetcode-Repo/tree/master/0932-monotonic-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/rm1710/Leetcode-Repo/tree/master/0944-delete-columns-to-make-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/rm1710/Leetcode-Repo/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-validate-stack-sequences](https://github.com/rm1710/Leetcode-Repo/tree/master/0983-validate-stack-sequences) |
 | [0999-regions-cut-by-slashes](https://github.com/rm1710/Leetcode-Repo/tree/master/0999-regions-cut-by-slashes) |
 | [1031-add-to-array-form-of-integer](https://github.com/rm1710/Leetcode-Repo/tree/master/1031-add-to-array-form-of-integer) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/rm1710/Leetcode-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/rm1710/Leetcode-Repo/tree/master/0645-set-mismatch) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rm1710/Leetcode-Repo/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0977-squares-of-a-sorted-array](https://github.com/rm1710/Leetcode-Repo/tree/master/0977-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/rm1710/Leetcode-Repo/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/rm1710/Leetcode-Repo/tree/master/1256-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rm1710/Leetcode-Repo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/rm1710/Leetcode-Repo/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rm1710/Leetcode-Repo/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0908-middle-of-the-linked-list](https://github.com/rm1710/Leetcode-Repo/tree/master/0908-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/rm1710/Leetcode-Repo/tree/master/0977-squares-of-a-sorted-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rm1710/Leetcode-Repo/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rm1710/Leetcode-Repo/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/rm1710/Leetcode-Repo/tree/master/1894-merge-strings-alternately) |
