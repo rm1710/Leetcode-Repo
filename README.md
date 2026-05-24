@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rm1710/Leetcode-Repo/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/rm1710/Leetcode-Repo/tree/master/2634-minimum-common-value) |
 | [2727-number-of-senior-citizens](https://github.com/rm1710/Leetcode-Repo/tree/master/2727-number-of-senior-citizens) |
+| [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [2881-split-strings-by-separator](https://github.com/rm1710/Leetcode-Repo/tree/master/2881-split-strings-by-separator) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/rm1710/Leetcode-Repo/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
