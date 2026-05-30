@@ -1,22 +1,13 @@
 class Solution {
     public boolean increasingTriplet(int[] nums) {
-        boolean t = false;
-        int s = nums.length;
+        int n1=Integer.MAX_VALUE;
+        int n2=Integer.MAX_VALUE;
 
-        int first = Integer.MAX_VALUE;
-        int second = Integer.MAX_VALUE;
-
-        for (int i = 0; i < s; i++) {
-            if (nums[i] <= first) {
-                first = nums[i]; 
-            } else if (nums[i] <= second) {
-                second = nums[i]; 
-            } else {
-                t = true; 
-                break;
-            }
+        for(int num:nums){
+            if(num<=n1) n1=num;
+            else if(num<=n2) n2=num;
+            else return true;
         }
-
-        return t;
+        return false;
     }
 }
