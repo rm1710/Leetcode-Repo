@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rm1710/Leetcode-Repo/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1923-sentence-similarity-iii](https://github.com/rm1710/Leetcode-Repo/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/rm1710/Leetcode-Repo/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1995-count-special-quadruplets](https://github.com/rm1710/Leetcode-Repo/tree/master/1995-count-special-quadruplets) |
 | [2035-count-sub-islands](https://github.com/rm1710/Leetcode-Repo/tree/master/2035-count-sub-islands) |
 | [2058-concatenation-of-array](https://github.com/rm1710/Leetcode-Repo/tree/master/2058-concatenation-of-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/rm1710/Leetcode-Repo/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/rm1710/Leetcode-Repo/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/rm1710/Leetcode-Repo/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rm1710/Leetcode-Repo/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1995-count-special-quadruplets](https://github.com/rm1710/Leetcode-Repo/tree/master/1995-count-special-quadruplets) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rm1710/Leetcode-Repo/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/rm1710/Leetcode-Repo/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/rm1710/Leetcode-Repo/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -779,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1995-count-special-quadruplets](https://github.com/rm1710/Leetcode-Repo/tree/master/1995-count-special-quadruplets) |
 | [2998-count-symmetric-integers](https://github.com/rm1710/Leetcode-Repo/tree/master/2998-count-symmetric-integers) |
 ## Merge Sort
 |  |
