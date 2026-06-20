@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rm1710/Leetcode-Repo/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rm1710/Leetcode-Repo/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/rm1710/Leetcode-Repo/tree/master/3582-find-indices-of-stable-mountains) |
+| [3583-count-special-triplets](https://github.com/rm1710/Leetcode-Repo/tree/master/3583-count-special-triplets) |
 | [3731-find-missing-elements](https://github.com/rm1710/Leetcode-Repo/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rm1710/Leetcode-Repo/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/rm1710/Leetcode-Repo/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rm1710/Leetcode-Repo/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rm1710/Leetcode-Repo/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rm1710/Leetcode-Repo/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-count-special-triplets](https://github.com/rm1710/Leetcode-Repo/tree/master/3583-count-special-triplets) |
 | [3731-find-missing-elements](https://github.com/rm1710/Leetcode-Repo/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rm1710/Leetcode-Repo/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rm1710/Leetcode-Repo/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rm1710/Leetcode-Repo/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/rm1710/Leetcode-Repo/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3583-count-special-triplets](https://github.com/rm1710/Leetcode-Repo/tree/master/3583-count-special-triplets) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rm1710/Leetcode-Repo/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rm1710/Leetcode-Repo/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
