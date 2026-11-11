@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rm1710/Leetcode-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rm1710/Leetcode-Repo/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/rm1710/Leetcode-Repo/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rm1710/Leetcode-Repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rm1710/Leetcode-Repo/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/rm1710/Leetcode-Repo/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/rm1710/Leetcode-Repo/tree/master/0500-keyboard-row) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/rm1710/Leetcode-Repo/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/rm1710/Leetcode-Repo/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/rm1710/Leetcode-Repo/tree/master/0434-number-of-segments-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rm1710/Leetcode-Repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rm1710/Leetcode-Repo/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/rm1710/Leetcode-Repo/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rm1710/Leetcode-Repo/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rm1710/Leetcode-Repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/rm1710/Leetcode-Repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rm1710/Leetcode-Repo/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rm1710/Leetcode-Repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/rm1710/Leetcode-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rm1710/Leetcode-Repo/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/rm1710/Leetcode-Repo/tree/master/1755-defuse-the-bomb) |
